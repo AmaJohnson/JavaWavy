@@ -1,0 +1,88 @@
+CD JS3 Proj Redux 
+Our goal: To use our new knowledge to implement a prompt that asks the user to enter a student’s expected college graduation date and then based on the entered month and year, welcome the high school or college student.
+--Javascript is basically forming sentences using code to make sense hoorai--
+//practice kids Phoebe and Grayson//
+STEP 1: Grad year and month
+[NA] Var Phoebe = NA;
+{ Freshman, Sophomore, Junior, Senior
+};
+
+[Freshman, Sophomore, Junior, SeniorYA;
+[YA] Var Grayson = YA 
+	{ Freshman, Sophmore, Junior, Senior};
+	
+Var Grad = [May2018, December2018
+];
+
+var HS = [
+
+STEP 2:
+//new adult novels//
+Var NA= “You are in college”
+//Young adult novels lmao// 
+Var YA = “You are in high school.”
+
+STEP 3: 
+Var welcomeNAstudent = NA;
+!! Var freshman, sophomore, junior, senior
+Var welcomeYAstudent = YA; 
+“Welcome <studentsclass>” unless YA then “You’re still a <student-class> in high school!”
+Var Student = Freshman; 
+Class of 2018
+if (welcomeNAstudent = May2018) {
+	console.log (NA, Grad) = “Welcome <student>!”
+}
+
+if (welcomeYAstudent = May2018) {
+	console.log (YA, HS)  = “You’re still a <student> in high school!”
+}
+
+!! Student class stays four years? One code line
+-- console.log basically = open dialog window in browser? 
+
+STEP 4:
+--Really must consult iPad notes hoorai-- 
+Var welcomebygradclass = {
+	GradMonth = { May
+};
+	GradYear =      { 2018, 2023
+};
+	welcome ={ 
+If (2018) {
+“Welcome Senior!”;}
+ else (2023) {“You’re still a Junior in high school!”
+};
+
+
+If GradGone = December2018
+If else? GradMonth GradYear?
+--output-- console.log “Welcome [class]!” 
+
+
+STEP 5:
+
+Var welcomebygradclass = {
+InputMonth: May
+InputYear : 2018
+Output: “Welcome Senior!”
+Return this.InputMonth + “” + this.InputYear;
+}
+}
+welcomebygradclass.Output();
+
+
+STEP 6 (WHEN ALL ELSE IS DONE):
+Test it :D
+
+//GradMonth// User Input Month: May
+//GradYear// User Input Year: 2018
+Output: "Welcome Senior!"
+4: if GradYear = 2018
+User Input Month: May
+User Input Year: 2023
+Output: "You're still a Junior in high school!"
+//Two outputs. GradMonth + Grad Year = welcomeClassYA/NA
+
+How does gradclasses come into play? Prev project? 
+--May23, most on iPad, didn’t want to bring yay. REGRET IT TURTLE. REGRET IT. --
+
